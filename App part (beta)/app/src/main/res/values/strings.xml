@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">U_Daily</string>
+    <string name="fgt_psd">Forget password?</string>
+    <string name="register">Register?</string>
+</resources>
